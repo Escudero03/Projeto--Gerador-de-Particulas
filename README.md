@@ -1,13 +1,13 @@
 # 🚀 Projeto Partículas Interativas  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="80" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="80" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="50"/>
 </p>
 
 Uma animação visual incrível de partículas que se conectam e flutuam no espaço, incluindo textos animados que refletem luzes.  
 
-🔗 **Veja o projeto online**: [Acesse Aqui](https://seu-link-aqui.com)  
+🔗 **Veja o projeto online**: [Acesse Aqui](https://escudero03.github.io/Projeto--Gerador-de-Particulas/)  
 
 ---
 
