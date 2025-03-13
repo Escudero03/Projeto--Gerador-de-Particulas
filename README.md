@@ -1,4 +1,9 @@
 # 🚀 Projeto Partículas Interativas  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
+</p>
 
 Uma animação visual incrível de partículas que se conectam e flutuam no espaço, incluindo textos animados que refletem luzes.  
 
@@ -50,6 +55,8 @@ Você pode modificar o projeto facilmente:
 Este projeto é livre para uso e modificação. Sinta-se à vontade para adaptá-lo conforme necessário!  
 
 
+---
+
 🛠 O que este README tem de especial?
 
 ✅ Organização clara e objetiva 🏗
@@ -64,6 +71,8 @@ Este projeto é livre para uso e modificação. Sinta-se à vontade para adaptá
 
 
 
-👨‍💻 Desenvolvido por **[Seu Nome]**    🚀😃
+👨‍💻 Desenvolvido por **[Jose Escudero (um dev em aprendizado!).]**   😃
+
+"DEV APRENDIZADO" - Porque cada linha de código é um passo adiante! 🚀
 
 
