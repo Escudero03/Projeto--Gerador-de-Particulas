@@ -13,7 +13,7 @@ Uma animação visual incrível de partículas que se conectam e flutuam no espa
 
 ## 🎨 Demonstração  
 
-![Preview do Projeto](https://via.placeholder.com/800x400?text=Preview+do+Projeto)
+![Preview do Projeto](Gerador-de-Particula.png)
 
 ---
 
